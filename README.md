@@ -1,4 +1,4 @@
 planaria
 ========
 
-data migration tool for ant task
+open source project of ant task for data migration tool
